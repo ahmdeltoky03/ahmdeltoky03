@@ -72,6 +72,103 @@ An end-to-end AI platform designed to generate Egyptian Ministry-style examinati
 
 ---
 
+# 🚀 Strong Post-Graduation Projects
+
+## AI Research Copilot — Multi-Agent Research & Decision Support
+
+A research assistant that automates the complete knowledge workflow: planning research, retrieving sources, analyzing findings, and generating executive-ready reports.
+
+### Key Features
+
+- Multi-Agent orchestration with CrewAI
+- Web and document research automation
+- RAG over internal and external knowledge
+- Cited evidence and source grounding
+- Structured reports and summaries
+- FastAPI backend with streaming responses
+
+**Tech Stack**
+
+`CrewAI` • `FastAPI` • `LangChain` • `PostgreSQL` • `pgvector` • `Tavily` • `Pydantic`
+
+---
+
+## Document Intelligence Platform — AI PDF & Knowledge Q&A
+
+A production-oriented document intelligence system for extracting information from PDFs, contracts, manuals, and business documents through semantic search and grounded question answering.
+
+### Key Features
+
+- OCR and document parsing pipelines
+- Semantic chunking and retrieval
+- Enterprise knowledge-base indexing
+- Source-grounded answer generation
+- PDF export and automated reporting
+- Document management and secure deployment
+
+**Tech Stack**
+
+`Python` • `FastAPI` • `LangChain` • `LLMs` • `pgvector` • `PostgreSQL` • `Docker`
+
+---
+
+## AI Customer Support Copilot — Intelligent Ticket Resolution
+
+A support assistant that classifies customer tickets, retrieves relevant documentation, drafts accurate responses, and escalates complex cases to human agents.
+
+### Key Features
+
+- Ticket classification and prioritization
+- RAG over product documentation and FAQs
+- Suggested responses and escalation logic
+- Human-in-the-loop review
+- Support-quality analytics
+- Knowledge-base feedback loop
+
+**Tech Stack**
+
+`FastAPI` • `LLMs` • `RAG` • `PostgreSQL` • `Redis` • `Docker` • `Vector Databases`
+
+---
+
+## Personalized Learning Assistant — Adaptive AI Tutor
+
+An adaptive learning platform that generates explanations, summaries, quizzes, and study plans based on each learner's needs and progress.
+
+### Key Features
+
+- Course-aware question generation
+- Personalized study recommendations
+- Concept explanations and summaries
+- Quiz generation and grading support
+- Learning progress tracking
+- Multi-subject knowledge assistance
+
+**Tech Stack**
+
+`Python` • `FastAPI` • `LLMs` • `PostgreSQL` • `LangChain` • `Docker`
+
+---
+
+## Business Knowledge Base Assistant — Internal AI Search
+
+An enterprise knowledge assistant that enables teams to ask natural-language questions over company policies, documents, and internal resources.
+
+### Key Features
+
+- Enterprise document ingestion
+- Semantic retrieval over internal knowledge
+- Natural-language search and summarization
+- Document version awareness
+- Search analytics and usage tracking
+- Secure internal deployment
+
+**Tech Stack**
+
+`FastAPI` • `RAG` • `LLMs` • `pgvector` • `PostgreSQL` • `Docker`
+
+---
+
 ## RAGGuide — Production-Ready Mini RAG Application
 
 A lightweight yet production-ready Retrieval-Augmented Generation system showcasing modern RAG architecture and scalable deployment.
@@ -88,13 +185,6 @@ A lightweight yet production-ready Retrieval-Augmented Generation system showcas
 - Prometheus Monitoring
 - Grafana Dashboards
 
-### Highlights
-
-- Production-ready architecture
-- Optimized retrieval pipeline
-- Modular design
-- Easy deployment
-
 **Tech Stack**
 
 `FastAPI` • `PostgreSQL` • `pgvector` • `Docker` • `Prometheus` • `Grafana`
@@ -108,16 +198,7 @@ A production-ready Multi-Agent AI system that automatically researches companies
 ### Workflow
 
 ```text
-Research Agent
-      │
-      ▼
-Analysis Agent
-      │
-      ▼
-Writing Agent
-      │
-      ▼
-Professional Company Report
+Research Agent → Analysis Agent → Writing Agent → Professional Company Report
 ```
 
 ### Key Features
@@ -146,7 +227,6 @@ An intelligent legal assistant developed during the National Telecommunication I
 - Retrieval-Augmented Generation
 - GraphRAG Knowledge Retrieval
 - Context-Aware Legal Question Answering
-- Intelligent Legal Assistant
 
 **Tech Stack**
 
@@ -176,7 +256,7 @@ A Multi-Agent AI platform capable of analyzing football data and answering footb
 
 ## Data Science & Analytics
 
-A collection of real-world projects covering the complete data workflow, from data preparation and exploratory analysis to predictive modeling and business intelligence, with a focus on transforming raw data into actionable insights.
+A collection of real-world projects covering the complete data workflow, from data preparation and exploratory analysis to predictive modeling and business intelligence, with a focus on transforming raw data into actionable decisions.
 
 ### Data Analytics
 
@@ -205,6 +285,26 @@ A collection of real-world projects covering the complete data workflow, from da
 **Tools**
 
 `Scikit-Learn` • `XGBoost` • `LightGBM` • `TensorFlow` • `PyTorch`
+
+---
+
+## Skills & Stack
+
+### AI / LLM Engineering
+
+`LLMs` • `RAG` • `Agentic AI` • `Multi-Agent Systems` • `Prompt Engineering` • `Fine-Tuning` • `Evaluation`
+
+### Backend & APIs
+
+`FastAPI` • `Python` • `REST APIs` • `Docker` • `Microservices`
+
+### Data & ML
+
+`Pandas` • `NumPy` • `Scikit-Learn` • `PyTorch` • `TensorFlow` • `XGBoost`
+
+### Databases & Search
+
+`PostgreSQL` • `pgvector` • `Neo4j` • `Redis` • `Vector Databases`
 
 ---
 
